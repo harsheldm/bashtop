@@ -6,7 +6,7 @@
 ## Description
 
 Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-
+  
 ## Features
 
 * Easy to use, with a game inspired menu system.
